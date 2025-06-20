@@ -46,7 +46,7 @@ Each project reflects a unique challenge and learning milestone. Explore below! 
   [🔗 Visit](https://plant-store-ausaf.vercel.app)
 
 - 📚 **Restina (Resturant Website)**  
-  [🔗 Visit](https://book-store-ausaf.vercel.app/)
+  [🔗 Visit](https://resturant-website-ausaf.vercel.app)
 
 ---
 
