@@ -39,13 +39,13 @@ Each project reflects a unique challenge and learning milestone. Explore below! 
 - 🏢 **ASF Enterprises (Business UI)**  
   [🔗 Visit](https://ausaf-enterprises-2.vercel.app)
 
-- 📚 **E-Book Store (Book Salling Website)**
+- 📚 **E-Book Store (Book Salling Website)** 
   [🔗 Visit](https://book-store-ausaf.vercel.app)
 
-- 📚 **Plant Store (Plant Salling Website)**
+- 📚 **Plant Store (Plant Salling Website)**  
   [🔗 Visit](https://plant-store-ausaf.vercel.app)
 
-- 📚 **Restina (Resturant Website)**
+- 📚 **Restina (Resturant Website)** 
   [🔗 Visit](https://book-store-ausaf.vercel.app/)
 
 ---
