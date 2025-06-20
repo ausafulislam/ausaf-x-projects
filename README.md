@@ -39,6 +39,15 @@ Each project reflects a unique challenge and learning milestone. Explore below! 
 - 🏢 **ASF Enterprises (Business UI)**  
   [🔗 Visit](https://ausaf-enterprises-2.vercel.app)
 
+- 📚 **E-Book Store (Book Salling Website)**
+  [🔗 Visit](https://book-store-ausaf.vercel.app)
+
+- 📚 **Plant Store (Plant Salling Website)**
+  [🔗 Visit](https://plant-store-ausaf.vercel.app)
+
+- 📚 **Restina (Resturant Website)**
+  [🔗 Visit](https://book-store-ausaf.vercel.app/)
+
 ---
 
 ## 📰 Blogs & Content Sites
@@ -67,10 +76,10 @@ Each project reflects a unique challenge and learning milestone. Explore below! 
   [🔗 Visit](https://weatherappausaf.streamlit.app)
 
 - 🌦️ **Weather App (React + Vite)**  
-  [🔗 Visit](https://weather-web-app-ten-roan.vercel.app)
+  [🔗 Visit](https://weather-web-react-ausaf.vercel.app)
 
 - 💱 **Currency Converter (React + Vite)**  
-  [🔗 Visit](https://currency-convertor-react-delta.vercel.app)
+  [🔗 Visit](https://currency-convertor-react-ausaf.vercel.app/)
 
 - 📋 **Todo List App (JavaScript)**  
   [🔗 Visit](https://todo-list-ausaf.vercel.app)
@@ -144,5 +153,5 @@ Each project reflects a unique challenge and learning milestone. Explore below! 
 ---
 
 ### 📌 Connect with Me
-- GitHub: [@ausafulislam](https://github.com/ausafulislam_h)
+- X(Twitter): [@ausafulislam](https://x.com/ausafulislam_h)
 - LinkedIn: [Ausaf Ul Islam](https://www.linkedin.com/in/ausafulislam/)
