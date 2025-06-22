@@ -26,6 +26,9 @@ Each project reflects a unique challenge and learning milestone. Explore below! 
 - 👨‍💼 **John Doe Portfolio (Template)**  
   [🔗 Visit](https://jhon-doe-ausaf.vercel.app)
 
+- 👨‍💼 **3D Web Portfolio (Template)**  
+  [🔗 Visit](https://asf-3d-dev-portfolio.vercel.app/)
+
 ---
 
 ## 🛒 Ecommerce & Business UI
